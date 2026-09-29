@@ -1,0 +1,41 @@
+{
+  "de": {
+    "hero": {
+      "eyebrow": "Neues Landing-Modul",
+      "title": "Ein weiterer Landingpage-Typ mit eigenem Design.",
+      "text": "Texte, Struktur und Gestaltung bleiben von anderen Landingpages getrennt.",
+      "button_text": "Mehr erfahren",
+      "button_url": "#contact"
+    },
+    "seo": {
+      "title": "AI Will Do Restaurants",
+      "description": "Ein unabhängiges Landing-Modul im AWD Landing Manager."
+    }
+  },
+  "en": {
+    "hero": {
+      "eyebrow": "New landing module",
+      "title": "Another landing-page type with its own design.",
+      "text": "Copy, structure and presentation remain isolated from other landing pages.",
+      "button_text": "Learn more",
+      "button_url": "#contact"
+    },
+    "seo": {
+      "title": "AI Will Do Restaurants",
+      "description": "An independent landing module in AWD Landing Manager."
+    }
+  },
+  "fr": {
+    "hero": {
+      "eyebrow": "Nouveau module de landing page",
+      "title": "Un autre type de landing page avec son propre design.",
+      "text": "Les textes, la structure et la présentation restent indépendants des autres pages.",
+      "button_text": "En savoir plus",
+      "button_url": "#contact"
+    },
+    "seo": {
+      "title": "AI Will Do Restaurants",
+      "description": "Un module de landing page indépendant dans AWD Landing Manager."
+    }
+  }
+}
